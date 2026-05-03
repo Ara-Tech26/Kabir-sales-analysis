@@ -1,7 +1,7 @@
 # Kabir-sales-analysis
 
 # Sales Trend 
-Checking through the raw dataset to analyse the sales trend for all the years, the sales over the year decreases but using a professional analysis from the table sum of sales by the years, the Sales decreasing over time which shows a downward trend over time.
+Checking through the raw dataset to analyse the sales trend for all the years, the sales over the year decreases but using a professional analysis from the table sum of sales by the years, the Sales declining over time which shows a downward trend over time.
 
 #### - Overall Business health
 - The business health over the years shows weak performance due to:
